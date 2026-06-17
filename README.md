@@ -1,5 +1,7 @@
 # Hormozi in Claude
 
+![Hormozi in Claude Banner](assets/banner.png)
+
 I built this because I am a genuine fan of Alex Hormozi's work.
 
 Not because I want another folder full of clever marketing theory.
