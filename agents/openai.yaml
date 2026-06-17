@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hormozi in Claude"
+  short_description: "Hormozi-style offers, funnels, and copy"
+  default_prompt: "Use $hormozi-in-claude to create a Grand Slam offer and sales page for my business."
